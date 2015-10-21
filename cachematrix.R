@@ -6,7 +6,7 @@
 ##      cacheing the result, before returning, upon the first execution.
 ##      subsequent executions of cacheSolve will return the cached inverse.
 ##
-##  Arguments:  x - shoulmad be an invertable matrix
+##  Arguments:  x - should be an invertable matrix
 ##
 ## Example Use:
 ## 1. For an invertible matrix:
